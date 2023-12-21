@@ -26,7 +26,7 @@
     }
     .desktop-homepage .footer-left {
     position: relative;
-    width: 302px;
+    width: 500px;
     height: 18px;
     }
     .desktop-homepage .sophiefunck {
@@ -53,7 +53,7 @@
     .desktop-homepage .div-3 {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 30px;
     position: relative;
     flex: 0 0 auto;
     }
@@ -65,8 +65,6 @@
     font-weight: 400;
     color: white;
     font-size: 16px;
-    letter-spacing: var(--portfolio-thumbnails-14-18-AA-letter-spacing);
-    line-height: var(--portfolio-thumbnails-14-18-AA-line-height);
     white-space: nowrap;
     font-style: normal;
     }
@@ -82,14 +80,7 @@
     background-color: white;
     opacity: 0.16;
     }
-    .desktop-homepage .up {
-    position: relative;
-    width: 24px;
-    height: 24px;
-    border-radius: 12px;
-    border: 0px solid;
-    border-color: white;
-    }
+  
     .desktop-homepage .img {
     position: absolute;
     width: 8px;
@@ -158,7 +149,7 @@
     align-items: center;
     justify-content: center;
     gap: 6.99px;
-    padding: 20px 40px;
+    padding: 8px 12px;
     position: absolute;
     top: 311px;
     left: 5px;
@@ -366,13 +357,14 @@
     align-items: center;
     justify-content: center;
     gap: 6.99px;
-    padding: 20px 40px;
+    padding: 8px 12px;
     position: absolute;
     top: 313px;
     left: 0;
     background-color: #f8f8f8;
     border-radius: 100px;
     border: 1.4px solid;
+    border-color:#FF3D00
     }
     .desktop-homepage .text-wrapper-8 {
     color: #FF3D00;
@@ -419,18 +411,19 @@
     align-items: center;
     justify-content: center;
     gap: 6.99px;
-    padding: 20px 40px;
+    padding: 8px 12px;
     position: absolute;
     top: 313px;
     left: 0;
     background-color: #f8f8f8;
     border-radius: 100px;
     border: 1.4px solid;
+    border-color: #F570EF;
     }
     .desktop-homepage .text-wrapper-9 {
     color: #F570EF;
     position: relative;
-    width: fit-content;
+    width: fill-content;
     margin-top: -4.9px;
     margin-bottom: -2.1px;
     font-family: "Inter-Regular", Helvetica;
@@ -506,28 +499,9 @@
     top: 1px;
     left: 2px;
     }
-    .desktop-homepage .screen-black-border-2 {
-    position: absolute;
-    width: 417px;
-    height: 294px;
-    top: 2px;
-    left: 3px;
-    }
-    .desktop-homepage .rectangle-3 {
-    position: absolute;
-    width: 417px;
-    height: 8px;
-    top: 282px;
-    left: 3px;
-    background-color: var(--screen-components);
-    }
-    .desktop-homepage .camera-2 {
-    position: absolute;
-    width: 3px;
-    height: 3px;
-    top: 9px;
-    left: 209px;
-    }
+  
+   
+   
     .desktop-homepage .screen-3 {
     position: absolute;
     width: 400px;
@@ -535,13 +509,7 @@
     top: 18px;
     left: 60px;
     }
-    .desktop-homepage .bottom-casing-silver-2 {
-    position: absolute;
-    width: 520px;
-    height: 16px;
-    top: 290px;
-    left: 0;
-    }
+  
     .desktop-homepage .overlap-5 {
     position: absolute;
     width: 520px;
@@ -551,13 +519,7 @@
     background-image: url(./);
     background-size: 100% 100%;
     }
-    .desktop-homepage .rectangle-4 {
-    position: absolute;
-    width: 74px;
-    height: 6px;
-    top: 0;
-    left: 223px;
-    }
+  
     .desktop-homepage .union-2 {
     position: absolute;
     width: 520px;
